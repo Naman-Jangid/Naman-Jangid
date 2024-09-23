@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Kumar Jangid</h1>
 <h3 align="center">What we know is a Drop, what we don't know is an Ocean.</h3>
 
-- 🔭 I’m currently working on **React, React Native, Nodejs, mongoDB, Nestjs**
+- 🔭 I’m currently working on **React, Next JS, React Native, Nodejs, mongoDB, Nestjs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
