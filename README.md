@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman Jangid</h1>
+# <div align="center">Hi there, I'm Naman Jangid  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
 <h3 align="center">What we know is a Drop, what we don't know is an Ocean.</h3>
 
 - 🔭 I’m currently working on **React, Next JS, React Native, Nodejs, mongoDB, Nestjs**
